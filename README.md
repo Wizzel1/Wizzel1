@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I'm Christian. I'm a Flutter enthusiast and I 💙 to build beautiful Apps with Flutter.
+I'm Christian. I'm a Flutter enthusiast and I 💙 to build beautiful and intuitive Apps.
 <br>
 I am also creating 🎮 with Unity.  
 <br>
