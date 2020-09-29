@@ -1,17 +1,22 @@
 ### Hi there 👋
-I'm Christian. I love to build Apps with Flutter and Games with Unity. 
+I'm Christian. I love to build 📱 with Flutter and 🎮 with Unity. 
 
+<br>
+<br>
 <strong> Latest Flutter Projects </strong>
 
 [Netflix UI Clone](https://github.com/Wizzel1/flutter-netflix-clone)
 
-- 🔭 I’m <del>
-currently</del> <ins>always</ins> working on improving 
-- 🌱 I’m currently learning Flutter
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+
+
+<br>
+<br>
+<br>
+
+- 🔭 I’m currently working on improving my Flutter UI Skills 
+- 🌱 I’m currently learning GetX for Flutter
 - 💬 Ask me about anything 🙂 
-- 📫 How to reach me: 
+- 📫 How to reach me: [Email](mailto:r_christian@gmx.de)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
