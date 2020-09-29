@@ -7,7 +7,8 @@ I am also creating 🎮 with Unity.
 <br>
 <strong> Latest Flutter Projects </strong>
 
-[Netflix UI Clone](https://github.com/Wizzel1/flutter-netflix-clone)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Wizzel1&repo=flutter-netflix-clone)](https://github.com/Wizzel1/flutter-netflix-clone)
+
 
 
 <br>
