@@ -20,7 +20,6 @@ I am also creating 🎮 with Unity.
 - 🌱 I’m currently learning GetX Statemanagement for Flutter
 - 💬 Ask me about anything 🙂 
 - 📫 How to reach me: [Email](mailto:r_christian@gmx.de)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+
 
 
