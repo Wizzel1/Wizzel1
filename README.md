@@ -11,8 +11,6 @@ I am also creating 🎮 with Unity.
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Wizzel1&repo=Instagram-UI-Clone)](https://github.com/Wizzel1/Instagram-UI-Clone)
 
 
-
-<br>
 <br>
 <br>
 <br>
