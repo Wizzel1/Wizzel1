@@ -15,8 +15,8 @@ I am also creating 🎮 with Unity.
 <br>
 <br>
 
-- 🔭 I’m currently working on improving my Flutter UI Skills 
-- 🌱 I’m currently learning GetX Statemanagement for Flutter
+- 🔭 I’m currently working on my own Saas Product
+- 🌱 I’m currently learning the Google Cloud Platform
 - 💬 Ask me about anything 🙂 
 - 📫 How to reach me: [Email](mailto:r_christian@gmx.de)
 
