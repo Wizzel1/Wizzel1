@@ -2,12 +2,10 @@
 
 I'm Christian. I'm a Flutter enthusiast and I 💙 to build beautiful and intuitive Apps.
 <br>
-I am also creating 🎮 with Unity.  
 <br>
-<br>
-<strong> Latest Flutter Projects </strong>
+<strong> Latest Projects </strong>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Wizzel1&repo=flutter-netflix-ui-clone)](https://github.com/Wizzel1/flutter-netflix-ui-clone)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Wizzel1&repo=podcast-ohne-richtigen-namen)](https://github.com/Wizzel1/podcast-ohne-richtigen-namen)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Wizzel1&repo=Instagram-UI-Clone)](https://github.com/Wizzel1/Instagram-UI-Clone)
 
 
@@ -16,7 +14,7 @@ I am also creating 🎮 with Unity.
 <br>
 
 - 🔭 I’m currently working on [PODSuite](https://www.podsuite.io)
-- 🌱 I’m currently learning the Google Cloud Platform
+- 🌱 I’m currently learning SvelteKit
 - 💬 Ask me about anything 🙂 
 - 📫 How to reach me: [Email](mailto:r_christian@gmx.de)
 
