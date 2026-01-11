@@ -3,15 +3,6 @@
 I'm Christian. I'm a passionate developer and I love to build beautiful and intuitive Apps.
 <br>
 <br>
-<strong> Latest Projects </strong>
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Wizzel1&repo=podcast-ohne-richtigen-namen)](https://github.com/Wizzel1/podcast-ohne-richtigen-namen)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Wizzel1&repo=Instagram-UI-Clone)](https://github.com/Wizzel1/Instagram-UI-Clone)
-
-
-<br>
-<br>
-<br>
 
 - 🔭 I’m currently working on [Cuppl](https://www.getcuppl.com)
 - 🌱 I’m currently learning Rust
