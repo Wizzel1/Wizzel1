@@ -1,7 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I'm Christian. I'm a passionate developer and I love to build beautiful and intuitive Apps.
-I enjoy coding the old fashioned way (without AI) and spend my free time building all kinds of projects.
+I'm Christian. I'm a passionate learner and I enjoy coding the old fashioned way (without AI) and spend my free time building all kinds of projects.
 <br>
 <br>
 
